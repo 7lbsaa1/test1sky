@@ -1,0 +1,1 @@
+{"appName":"sky7","defaultRoute":"/home","image":{"maxWidth":1920,"maxHeight":1920,"quality":0.8,"maxBytes":8388608},"routes":{"login":"/login","registration":"/registration","home":"/home","profile":"/profile","favorite":"/favorite","admin":"/admin","users":"/users","reports":"/reports","usercredentials":"/usercredentials","block":"/block"}}
